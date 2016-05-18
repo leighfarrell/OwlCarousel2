@@ -1,7 +1,7 @@
 {
   "name": "owl.carousel",
   "description": "Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "homepage": "https://github.com/OwlCarousel2/OwlCarousel2",
   "main": "./dist/owl.carousel.js",
   "author": {
@@ -18,7 +18,7 @@
     "email": "deutsch@medienpark.net"
   },
   "dependencies": {
-    "jquery": ">=1.8.3"
+    "jquery": "2.2.0"
   },
   "devDependencies": {
     "assemble": "~0.4.37",
